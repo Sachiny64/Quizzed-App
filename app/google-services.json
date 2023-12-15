@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "687501307346",
+    "project_id": "quizzed-5aa98",
+    "storage_bucket": "quizzed-5aa98.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:687501307346:android:5ab7e2d37220804711ec0b",
+        "android_client_info": {
+          "package_name": "com.myfirstapp.quizzed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCii13tyNUHzn0jnrwlSZY50BqSJOS6nbM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
